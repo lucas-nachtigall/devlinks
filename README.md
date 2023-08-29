@@ -5,6 +5,7 @@ Este repositório é um projeto criado para ajudar eu e outros programadores a e
 ## De onde veio a ideia? 💡
 Quando comecei a estudar programação, senti uma grande dificuldade em encontrar materiais de estudo e ferramentas que ajudassem no desenvolvimento. Então decidi criar este repositório, reunindo informações de threads do Twitter, Instagram e outros sites para ajudar tanto programadores novos quanto experientes.
 
+
 ## Frontend
 
 ### Algoritmos e Estrutura de Dados
